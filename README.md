@@ -20,8 +20,8 @@ This R script performs data analysis and linear regression modeling to predict b
 
 - R (version 4.0 or above recommended)
 - Required Libraries:
-- - library(ggplot2)
-- - library(readxl)
+  - library(ggplot2)
+  - library(readxl)
 
 ## How to Use
 
