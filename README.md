@@ -29,13 +29,14 @@ Clone or download this repository.
 Open the R script in RStudio.
 When prompted, select the .xlsx file provided.
 
-# The script will:
+### The script will:
 Load and clean data
 Build and evaluate a regression model
 Predict for custom input (2500 VFX shots in IMAX is hardcoded in given code)
 Save plots to your working directory
 
 ## Sample Dataset Format
+
 | Movie\_Title                     | box\_office | CGI\_Used | Release\_Format | vfx\_shots |
 | -------------------------------- | ----------- | --------- | --------------- | ---------- |
 | Avatar: The Way of Water         | 2320000000  | High      | 3D,IMAX         | 4001       |
@@ -43,8 +44,3 @@ Save plots to your working directory
 | Jurassic World Dominion          | 1000000000  | High      | 3D,IMAX         | 1450       |
 | Doctor Strange in the Multiverse | 950000000   | High      | 3D,IMAX         | 2500       |
 | Black Panther: Wakanda Forever   | 850000000   | High      | 3D,IMAX         | 2233       |
-
-
-
-
-
